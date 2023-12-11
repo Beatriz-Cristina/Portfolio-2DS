@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang=”pt-BR”>
+	<head>
+		<meta charset=”UTF-8” />
+			<title>Minha - Home Page! </title>
+			<script language="LiveScript">
+				function bye(){
+				name = document.minhahomepage.name.value;
+				email = document.minhahomepage.email.value;
+				alert("Olá " + name + "\nSeu email: " + email + ", foi cadastrado corretamente!");
+				}
+			</script>
+			
+			<style>
+			body {
+			background-color:#86b2ff;
+			font-family: Times New Roman, Arial;
+			color: black;
+			}
+			
+			p{
+			font-size: 20px;
+			}
+			</style>
+	</head>
+	
+	<body>
+		<form name="minhahomepage">
+			<center><img src="Minha home page - capa.png" width="700" height="300"><br><br></center>
+				
+			<p>Nome: <input name="name" type="text" size="60" /><br><br>
+			E-mail: <input name="email" type="text" size="60" /></p><br><br>
+				
+			<center>
+			<input type="button" value="Enviar" onclick="bye()">
+			<input type="reset" name="limpar" value="Limpar"><br><br>
+			</center>
+
+			<img src="Minha home page - loading.png" width="1350" height="30"><br>
+			<center>Página desenvolvida por: <a href="meu perfil/Meu perfil.html">Beatriz C. de Ol. Jatobá - 2ºDS</a> Junho/2022
+			<br><br><a href="../../Portfólio.html">Voltar</a></center>
+		</form>
+	</body>
+</html>
