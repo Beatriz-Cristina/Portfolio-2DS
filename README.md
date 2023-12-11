@@ -10,6 +10,7 @@ PW II - programação web II
 SE - sistemas embarcados
 
 Observações:
+
 BD II:
 Os projetos foram programados em MySQL, sendo que os primeiros foram feitos no prompt de comandos do próprio computador e o restante no HeidSQL
 Para executar os projetos é necessário ter e estar com o Xampp ligado
