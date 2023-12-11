@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <TITLE>Consultar pets</TITLE>
+</HEAD>
+<style>
+body{
+background-image: linear-gradient(to bottom right, #66ccff, #0000cc);
+color: white;
+font-family: Times New Roman, Arial Black;
+font-size: 14pt;
+text-align: left;
+}
+</style>
+<BODY>
+<font face="book antiqua" size="8"><center>Consulta pets</center></font><br>
+
+<form method="post" action="consulta_pets.php">
+Digite a expressão: <input type="text" name = "expressao"><br><br>
+
+Escolha a opção:
+<input type="radio" name="op" value ="id" checked>ID
+<input type="radio" name="op" value ="nome_pet">Nome pet
+<input type="radio" name="op" value ="nascimento">Nascimento
+<input type="radio" name="op" value ="especie">Especie
+<input type="radio" name="op" value ="raca">Raça
+<input type="radio" name="op" value ="tutor">Tutor
+<br>
+<center><input type="submit" value ="Consultar"></center>
+</form>
+</BODY>
+</HTML>
