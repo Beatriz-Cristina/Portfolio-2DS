@@ -1,6 +1,6 @@
 # Portfolio-2DS 
-<br>Olá me chamo Beatriz Cistina e atualmente tenho 17 anos, estou me formando esse ano no ensino médio integrado ao técnico de Desenvolvimento de Sistemas na ETEC Rodrigues de Abreu! <br>
-Este portfólio contém diversas atividades e projetos realizados durante o 2º ano do curso técnico de desenvolvimento de sistemas realizadas no ano de 2022.<br<br>
+<br>Olá me chamo Beatriz Cistina e atualmente tenho 17 anos, estou me formando esse ano no ensino médio integrado ao técnico de Desenvolvimento de Sistemas na ETEC Rodrigues de Abreu! <br><br>
+Este portfólio contém diversas atividades e projetos realizados durante o 2º ano do curso técnico de desenvolvimento de sistemas realizadas no ano de 2022.<br><br>
 ->Sobre esse portfólio:<br>
 Os projetos estão separados por pastas com os nomes das matérias sendo:<br>
 -BD II - Banco de dados II<br>
