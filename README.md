@@ -7,11 +7,14 @@ Este portfólio contém diversas atividades e projetos realizados durante o 2º 
 ->Sobre esse portfólio:
 
 Os projetos estão separados por pastas com os nomes das matérias sendo:
-BD II - Banco de dados II
-DS - desenvolvimento de sistemas
-PAM I - Programação de aplicativos mobile I
-PW II - programação web II
-SE - sistemas embarcados
+-BD II - Banco de dados II
+
+-DS - desenvolvimento de sistemas
+
+-PAM I - Programação de aplicativos mobile I
+
+-PW II - programação web II <Br>
+-SE - sistemas embarcados
 
 Observações:
 
