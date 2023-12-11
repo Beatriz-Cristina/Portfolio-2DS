@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>REPERTORIO</title>
+		<style>
+		body{
+		background-image: linear-gradient(to bottom right, #00FFFF, #6495ED);
+		} 
+		</style>
+	</head>
+	
+<body>
+<font face="book antiqua" size="8"><center>Repertorio</center></font><br>
+<form method="post" action="repertorio.php">
+Código musica:	        <input type="text" size="07" name="codigo" maxlength="07"><br><br>
+Nome musica:	        <input type="text" size="40" name="nome"><BR><br>
+Genero:	                <select name="genero">
+						<option value="axe">Axé</option>
+						<option value="blues">Blues</option>
+						<option value="country">County</option>
+						<option value="eletronica">Eletrônica</option>
+						<option value="forro">Forró</option>
+						<option value="funk">Funk</option>
+						<option value="gospel">Gospel</option>
+						<option value="hiphop">Hipo Hop</option>
+						<option value="jazz">Jazz</option>
+						<option value="mpb">MPB</option>
+						<option value="classica">Música Clássica</option>
+						<option value="pagode">Pagode</option>
+						<option value="pop">Pop</option>
+						<option value="rap">Rap</option>
+						<option value="reggae">Reggae</option>
+						<option value="rock">Rock</option>
+						<option value="samba">Samba</option>
+						<option value="sertanejo">Sertanejo</option></select><BR><br>
+			
+Compositor:	     	   <input type="text" size="20" name="compositor"><BR><br>
+Interprete:	   	       <input type="text" size="04" name="interprete"><BR><br>
+Data de lançamento:	   <input type="date" name="datalancamento"><BR><br>
+Duracao:			   <input type="time" name="duracao" value="0"> <BR><br>
+Tipo musica:		   <br><input type="radio" name="tipo" value="acustico"> Acustico <BR>
+                       <input type="radio" name="tipo" value="estudio"> Estudio <BR><br>
+Letra:		           <br><textarea size="500" name="letra" rows="10" cols="70" >Digite aqui</textarea><BR><br>
+
+<input type="submit" value="Incluir">
+</form>
+</body>
+</html>
