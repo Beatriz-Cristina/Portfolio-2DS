@@ -4,8 +4,6 @@ Olá me chamo Beatriz Cistina e atualmente tenho 17 anos, estou me formando esse
 
 Este portfólio contém diversas atividades e projetos realizados durante o 2º ano do curso técnico de desenvolvimento de sistemas realizadas no ano de 2022.
 
-Em breve farei também o portfólio do 1º e 3º ano do curso técnico de desenvolvimento de sistemas realizadas nos anos de 2021 e 2023.
-
 ->Sobre esse portfólio:
 
 Os projetos estão separados por pastas com os nomes das matérias sendo:
