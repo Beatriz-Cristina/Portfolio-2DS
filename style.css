@@ -1,0 +1,63 @@
+table{
+text-align: center;
+}
+
+a{
+position: relative;
+display: inline-block;
+color: white;
+margin-right: 20px;
+}
+
+td{
+font-size: 15pt;
+}
+
+.atividades{
+font-size: 20pt;
+color: white;
+text-decoration: underline;
+margin: 8px;
+}
+
+.informacoes{
+	background-color: #00008B;
+	}
+	
+	.dropdown {
+position: relative;
+display: inline-block;
+color: white;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+min-width: 100px;
+z-index: 1;
+font-size: 15pt;
+}
+
+.dropdown:hover .dropdown-content{
+display:block;
+}
+
+.titulo{
+font-size: 25pt;
+}
+
+.texto{
+	font-size: 22pt;
+}
+
+.materias{
+	font-size: 15pt;
+}
+
+.pw{
+	text-align: left;
+}
+
+.se{
+	text-align: left;
+}
