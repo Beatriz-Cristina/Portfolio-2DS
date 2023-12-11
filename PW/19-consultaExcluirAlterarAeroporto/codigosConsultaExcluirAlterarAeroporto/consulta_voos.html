@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <TITLE>Consultar voos</TITLE>
+</HEAD>
+<style>
+body{
+background-image: linear-gradient(to bottom right, #66ccff, #0000cc);
+color: white;
+font-family: Times New Roman, Arial Black;
+font-size: 14pt;
+text-align: left;
+}
+</style>
+<BODY>
+<font face="book antiqua" size="8"><center>Consulta voos</center></font><br>
+
+<form method="post" action="consulta_voos.php">
+Digite a expressão: <input type="text" name = "expressao"><br><br>
+
+Escolha a opção:
+<input type="radio" name="op" value ="id_voo" checked>ID do voo
+<input type="radio" name="op" value ="destino">Destino
+<input type="radio" name="op" value ="empresa">Empresa
+<input type="radio" name="op" value ="data">Data
+<br>
+<center><input type="submit" value ="Consultar"></center>
+</form>
+</BODY>
+</HTML>
